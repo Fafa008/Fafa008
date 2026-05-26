@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on projects in React Native (like a Todo App) and experimenting with server-side rendering using Next.js.<br>👯 I’m looking to collaborate on React Native apps, Next.js projects, or anything involving modern web and mobile development.<br>🤝 I’m looking for help with improving app performance and mastering advanced features in both Next.js and React Native.<br>🌱 I’m currently learning how to build scalable full-stack applications by combining Next.js with APIs and mobile solutions using React Native.<br>💬 Ask me about React Native, Next.js, or how I manage learning multiple frameworks at once!<br>⚡ Fun fact: I’m passionate about creating apps that are not just functional but also delightful to use—whether on mobile or web.
+🔭 I’m currently a **Master 2 student in AI, Governance & Data Engineering** at ENI Fianarantsoa (graduating Jan 2026). I build intelligent systems combining **NLP, RAG, and web technologies**.<br>
+👯 I’m looking to collaborate on **AI-driven applications**, **full-stack web/mobile projects**, and **geospatial data solutions** (GIS, Google Earth Engine, QGIS).<br>
+🤝 I’m looking for help with scaling **LLM-based systems** and optimizing **real-time data processing pipelines**.<br>
+🌱 I’m currently learning advanced **React Native**, **Next.js**, and integrating **AI models into production** (LangChain, ChromaDB).<br>
+💡 Ask me about **Python (AI/Data)**, **Java (Desktop)**, **PHP/Laravel (Web)**, **GIS**, or how I combine **cartography and machine learning**.<br>
+⚡ Fun fact: I’ve built a legal AI chatbot for Malagasy law using RAG + React, and I love turning complex data into interactive maps and apps.
 
 
 ## 🌐 Socials:
